@@ -6,6 +6,8 @@
 
 .container{
     width:100%;
+    position:fixed;
+    background-color:#fff;
 }
 
 header{
@@ -14,7 +16,8 @@ header{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding-top:3rem;
+    padding:2rem 0;
+
 }
 
 nav{
@@ -34,6 +37,10 @@ li:hover{
     color:#1F1534;
     cursor:pointer;
     font-weight:bold;
+}
+
+a{
+    text-decoration:none;
 }
 
 .menuContainer{

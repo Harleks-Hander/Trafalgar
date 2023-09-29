@@ -1,4 +1,8 @@
 
+.container{
+    margin-top:7rem;
+}
+
 .heroContent{
     display:flex;
     justify-content:space-between;
