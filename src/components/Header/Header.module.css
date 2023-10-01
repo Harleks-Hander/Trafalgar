@@ -69,13 +69,13 @@ a{
         width:100%
     }
 
+    header nav{
+        display:none;
+    }
+
     .menuContainer{
         display:block;
         font-size:3rem;
-    }
-
-    nav{
-        display:none;
     }
 }
 

@@ -286,5 +286,73 @@ label{
 
 
 
+@media (max-width:768px) {
+    
+    .community{
+        padding:3rem 0;
+    }
+
+    .topText{
+        padding-left:0.7rem;
+    }
+    
+    .topText h2{
+        font-size:40px;
+        width:82%;
+    }
+    
+    .topText p{
+        font-size:17px;
+    }
+
+    .started{
+        padding:3rem 0;
+    }
+    
+    .secondToptext{
+        padding-bottom:1rem;
+    }
+    
+    .secondToptext h2{
+        font-size:40px;
+    }
+    
+    .secondToptext p{
+        font-size:17px;
+    }
+    
+    .secondToptext span{
+        font-size:17px;
+    }
+
+    .orContainer{
+        padding:1rem 0;
+    }
+
+    .orContainer p{
+        font-size:17px;
+    }
+
+    form{
+        margin-left:3rem;
+        margin-right:3rem;
+    }
+
+    input{
+        margin-bottom:1.5rem;
+        font-size:17px;
+        padding-left:1rem;
+    }
+
+    label{
+        font-size:17px;
+    }
+
+    .btnContainer button{
+        height:2rem;
+        font-size:17px;
+    }
+}
+
 
 
